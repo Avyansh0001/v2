@@ -100,7 +100,7 @@ const Nav = () => {
           <Row>
             <Location
               target="_blank"
-              href={doing ? `https://www.google.com/search/Avyansh Ralph` : undefined}
+              href={doing ? `https://www.google.co.in/search?q=avyansh+ralph&sxsrf=APq-WBsogyKuz_EovaksDVqspLzGOiyJmQ%3A1644941666203&source=hp&ei=YtELYsvUCZmH4-EPhJmRsAE&iflsig=AHkkrS4AAAAAYgvfcuKK8jkLVtbQRN84xx8spQzZFfBp&oq=Avya&gs_lcp=Cgdnd3Mtd2l6EAMYADIECCMQJzIECCMQJzIECCMQJzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDILCC4QgAQQsQMQgwEyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjEOoCECc6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToICAAQsQMQgwE6EQguEIAEELEDEIMBEMcBEKMCOgUILhCABDoLCC4QgAQQxwEQowI6CAguEIAEELEDOggILhCxAxCDAToLCC4QgAQQsQMQ1AJQyQ9YlhBg1CFoAXAAeACAAYEEiAHpDJIBCTAuMS40LTEuMpgBAKABAbABCg&sclient=gws-wiz` : undefined}
               rel="noreferrer"
             >
               <NavigationIcon />
