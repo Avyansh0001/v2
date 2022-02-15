@@ -36,7 +36,7 @@ const Home = () => {
       <h2>Apps I use</h2>
 
       <p>
-        For graphic desiging I use all Adobe Apps like Photoshop, Illustrator, InDesign, etc whereas or video editing I use Adobe Premiere Pro.
+        For graphic desiging I use all Adobe Apps like Photoshop, Illustrator, InDesign, etc whereas for video editing I use Adobe Premiere Pro.
       For Coding and editing, I mainly use Visual Studio Code, Sublime Text or WebStorm.</p>
 
       <h3>About Flyte</h3>
