@@ -134,9 +134,7 @@ const Nav = () => {
             <Page active={pathname === '/etc' ? 1 : 0} to="/etc">
               more + contact
             </Page>
-            <Page active={pathname === '/juicewrld' ? 1 : 0} to="/juicewrld">
-              JW
-            </Page>
+            
           </div>
 
           <Icons>
