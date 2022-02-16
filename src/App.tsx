@@ -88,7 +88,7 @@ function App() {
                 <Route exact path="/how" component={How} />
                 <Route exact path="/etc" component={Etc} />
                 <Route exact path="/presence" component={Presence} />
-                <Route exact path="/sakuraji.ma" component={Sakurajima} />
+                <Route exact path="/juicewrld" component={Sakurajima} />
               </Switch>
             </AnimatePresence>
           </ContentWrapper>
