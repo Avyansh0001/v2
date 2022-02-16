@@ -7,23 +7,17 @@ import styled from 'styled-components';
 const Sakurajima = () => (
   <PageWrapper forceReadableWidth>
     <Helmet>
-      <title>sakuraji.ma</title>
+      <title>Juice WRLD</title>
     </Helmet>
-    <h1>sakuraji.ma</h1>
+    <h1>Juice WRLD!!!</h1>
     <MaiGifImg draggable={false} src={Mai} />
     <p>
-      Looks like you've stumbled upon sakuraji.ma! I use this domain as rDNS for the networks & IPs
-      I control, and for few NOC/WHOIS management emails. It's short for Mai <b>Sakurajima</b>.
+      Looks like that you are also a person who likes <b>Juice WRLD!!!!!</b>.
     </p>
-    <h2>Authoritative Delegation</h2>
+    <h2>Why do I like his music?</h2>
     <p>
-      The domains <b>kaede.sakuraji.ma</b> and <b>shoko.sakuraji.ma</b> act as the authorative
-      nameservers for the following IP space:
-      <ul>
-        <li>172.110.130.0/24</li>
-        <li>162.218.156.0/24</li>
-        <li>2602:fc50::/36</li>
-      </ul>
+      I mean why not like his music?
+      
     </p>
   </PageWrapper>
 );
