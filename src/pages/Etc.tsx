@@ -31,7 +31,9 @@ const Etc = () => (
       <li>
         <a href={'https://p.avyanshralph.xyz'}>p.avyanshralph.xyz</a>
         
+        <li>
         <a href={'https://phineas.io'}>Code from Phin</a>
+      </li>
       </li>
       
      
